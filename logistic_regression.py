@@ -1,9 +1,4 @@
 
-"""
-Created on Wed Dec 23 17:49:15 2020
-
-@author: gorkay
-"""
 import numpy as np
 
 """
